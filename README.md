@@ -1,4 +1,4 @@
-## Terminal :
+## Bash:
 
 * I can see it again in amsterdam in my terminal.
 * I have done an emoji as a name.
