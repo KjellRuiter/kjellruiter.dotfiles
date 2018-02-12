@@ -4,6 +4,7 @@
 * I have done an emoji as a name.
 * have changed the colors of the text
 * I have made several aliases
+* welcom message
 
 ## Resources
 * https://github.com/cmda-be/course-17-18/blob/master/week-1.md
