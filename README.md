@@ -12,7 +12,7 @@
 * https://mattmazur.com/2012/01/27/how-to-change-your-default-terminal-prompt-in-mac-os-x-lion/
 * https://www.digitalocean.com/community/tutorials/an-introduction-to-useful-bash-aliases-and-functions 
 
-## Credits
+## SO
 * Tim foli
 * Remco Pasma
 * Burak Goraler
